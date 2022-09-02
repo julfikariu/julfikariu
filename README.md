@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julfikar Alih</h1>
+<h1 align="center">Hi 👋, I'm Julfikar Ali</h1>
 <h3 align="center">A passionate Software Engineer</h3>
   
 - 🔭 Currently working on **Web Applications**

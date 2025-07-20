@@ -1,18 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Hi there, I'm Julfikar Ali
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <h3>
-    A passionate Full Stack Developer from Bangladesh
-  </h3>
-  <a href="https://github.com/julfikariu/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=julfikariu&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
-
----
+<h1 align="center">Hi 👋, I'm Julfikar Ali</h1>
+<h2> Professional Software Engineer with experience in Full Stack. </h2>
 
 ### 👨‍💻 About Me
 

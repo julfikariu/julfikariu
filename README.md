@@ -1,39 +1,50 @@
 <h1 align="center">Hi 👋, I'm Julfikar Ali</h1>
-<h2> Professional Software Engineer with experience in Full Stack. </h2>
+<p align="center">
+  <strong>Software Engineer | Specialized in Laravel & Modern Web Ecosystems</strong>
+</p>
 
-### 👨‍💻 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/julfikar-fsdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:julfikariucse15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://devjulfikar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
+</p>
 
-I am a results-driven Software Engineer with over 5 years of experience, specializing in the **PHP/Laravel** ecosystem. I enjoy turning complex problems into simple, beautiful, and intuitive web applications. My expertise lies in architecting secure backend systems, integrating complex services like **3D Secure payment gateways** and **SSO**, and managing cloud infrastructure on **AWS**.
+---
 
-- 🔭 I’m currently working on building scalable B2B platforms and enhancing my cloud skills.
-- 🌱 I’m currently learning more about the **MERN stack** and **DevOps best practices**.
-- 📫 How to reach me: **julfikariucse15@gmail.com**
+### 👨‍💻 Professional Summary
+
+I am a results-driven **Software Engineer** with over **4 years of professional experience** in architecting scalable and secure web applications. My expertise lies in the **PHP/Laravel ecosystem**, with a strong focus on **Multi-tenant SaaS architecture**, **FinTech integrations**, and **Cross-platform Desktop applications** using Rust/Tauri.
+
+- 🔭 **Current Focus:** Scaling **Flick HRM** (Multi-tenant SaaS), developing a [**Client-Admin CRM**](https://sakuratech.duckdns.org/) using (Laravel API + Nuxt.js) and high-performance desktop tools like [TeamWorks](https://github.com/julfikariu/teamworks) (Tauri-based desktop tracker).
+- 🚀 **Specialties:** 3D Secure Payment Gateways (Veritrans), SSO Integration, Multi-tenant Architecture, and RESTful API Design.
+- 🌱 **Learning:** Expanding expertise in advanced **DevOps** (AWS & CI/CD).
+- 🛠️ **Infrastructure:** Hands-on experience managing **AWS EC2**, Linux servers, and GitHub Actions.
+- 🤖 **Modern Workflow:** Actively integrating **AI-assisted tools (like Cursor AI, Github Co-pilot)** into my development process to enhance productivity and streamline debugging.
+- ⚡ **Goal:** Turning complex business requirements into high-performance, maintainable code.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-Here are some of the technologies I'm proficient in:
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | `PHP (Laravel - Expert)` `CodeIgniter` `Node.js` `MySQL` |
+| **Frontend** | `Vue 3 (Composition API)` `Inertia.js` `TypeScript` `Nuxt.js` `React` `Tailwind CSS` |
+| **Desktop** | `Rust` `Tauri v2` |
+| **Cloud & DevOps** | `AWS (EC2)` `GitHub Actions` `Docker` `Linux (Ubuntu/CentOS)` |
+| **Security** | `3D Secure Payment` `SSO` `Sanctum` `Passport` |
 
-<p align="left">
-  <!-- Backend -->
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
-  <a href="https://cakephp.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original-wordmark.svg" alt="CakePHP" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-  <!-- Frontend -->
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="50" /></a>
-  <a href="https://www.w3.org/TR/html5/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <a href="https://www.w3.org/TR/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-  <!-- Cloud & DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-</p>
+---
+
+### 🚀 Key Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Flick HRM** | A comprehensive Multi-tenant SaaS HRM system featuring staff management and leave modules. | `Laravel` `Inertia.js` `Vue 3` `TypeScript` `Tailwind CSS` |
+| **TeamWorks** | A high-performance desktop time-tracking application with activity monitoring. | `Rust` `Tauri v2` `Vue 3` |
+| **Sakura CRM** | A headless client-admin portal built for an IT agency to manage dashboards and invoicing. | `Nuxt.js` `Laravel API` `Axios` `Tailwind CSS` |
+| **B2B FinTech** | Engineered a secure payment system for high-volume B2B transactions in the Japanese market. | `Laravel` `3D Secure` `Veritrans.jp` `SSO` |
+| **Property Mgt** | A full-featured system covering tenancy, mortgage, and complex financial history modules. | `CodeIgniter` `MySQL` `Bootstrap` |
 
 ---
 
@@ -41,27 +52,13 @@ Here are some of the technologies I'm proficient in:
 
 <p align="center">
   <!-- The "include_all_commits=true" parameter was removed to prevent timeouts -->
-  <img src="https://github-readme-stats.vercel.app/api?username=julfikariu&show_icons=true&theme=dracula&count_private=true" alt="Julfikar's GitHub Stats"/>
-  <br/>
+  <!--<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=julfikariu&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+  <br/>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julfikariu&layout=compact&langs_count=8&theme=dracula" alt="Julfikar's Top Languages"/>
 </p>
 
 ---
 
-### 🏆 My Best Projects
-
-Here are some of the projects I'm most proud of. Be sure to **pin them** to your profile as well!
-
-| Project                                    | Description                                                                                             | Tech Stack                                                                                                                                                                                                                                                            |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Learning Management System**             | An LMS built from scratch to manage courses, students, and manage with a secure admin panel. | <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="20" /> <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="20" /> <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="20" /> |
-                                                                                                                                                                                                              
----
-
-### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-julfikar-ali">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <i>"Passionate about building maintainable and efficient solutions to solve real-world business problems."</i> <br>
 </p>
